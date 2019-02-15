@@ -1,0 +1,11 @@
+/Users/macbook/Projects/w2t3/w2t3/bin/Debug/netcoreapp2.1/w2t3.deps.json
+/Users/macbook/Projects/w2t3/w2t3/bin/Debug/netcoreapp2.1/w2t3.runtimeconfig.json
+/Users/macbook/Projects/w2t3/w2t3/bin/Debug/netcoreapp2.1/w2t3.runtimeconfig.dev.json
+/Users/macbook/Projects/w2t3/w2t3/bin/Debug/netcoreapp2.1/w2t3.dll
+/Users/macbook/Projects/w2t3/w2t3/bin/Debug/netcoreapp2.1/w2t3.pdb
+/Users/macbook/Projects/w2t3/w2t3/obj/Debug/netcoreapp2.1/w2t3.csprojAssemblyReference.cache
+/Users/macbook/Projects/w2t3/w2t3/obj/Debug/netcoreapp2.1/w2t3.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/w2t3/w2t3/obj/Debug/netcoreapp2.1/w2t3.AssemblyInfoInputs.cache
+/Users/macbook/Projects/w2t3/w2t3/obj/Debug/netcoreapp2.1/w2t3.AssemblyInfo.cs
+/Users/macbook/Projects/w2t3/w2t3/obj/Debug/netcoreapp2.1/w2t3.dll
+/Users/macbook/Projects/w2t3/w2t3/obj/Debug/netcoreapp2.1/w2t3.pdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{3936ADBD-717B-49C1-98A2-8FACC69A62E4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="w2t2/Program.cs">
+    <Files>
+      <File FileName="w2t2/Program.cs" Line="34" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.w2t2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
