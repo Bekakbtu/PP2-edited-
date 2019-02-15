@@ -1,0 +1,11 @@
+/Users/macbook/Projects/task2/task2/obj/Debug/netcoreapp2.1/task2.csprojAssemblyReference.cache
+/Users/macbook/Projects/task2/task2/obj/Debug/netcoreapp2.1/task2.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/task2/task2/obj/Debug/netcoreapp2.1/task2.AssemblyInfoInputs.cache
+/Users/macbook/Projects/task2/task2/obj/Debug/netcoreapp2.1/task2.AssemblyInfo.cs
+/Users/macbook/Projects/task2/task2/bin/Debug/netcoreapp2.1/task2.deps.json
+/Users/macbook/Projects/task2/task2/bin/Debug/netcoreapp2.1/task2.runtimeconfig.json
+/Users/macbook/Projects/task2/task2/bin/Debug/netcoreapp2.1/task2.runtimeconfig.dev.json
+/Users/macbook/Projects/task2/task2/bin/Debug/netcoreapp2.1/task2.dll
+/Users/macbook/Projects/task2/task2/bin/Debug/netcoreapp2.1/task2.pdb
+/Users/macbook/Projects/task2/task2/obj/Debug/netcoreapp2.1/task2.dll
+/Users/macbook/Projects/task2/task2/obj/Debug/netcoreapp2.1/task2.pdb

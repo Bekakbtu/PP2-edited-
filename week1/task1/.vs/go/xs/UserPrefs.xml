@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2300E4EF-6045-4518-938F-1041EA8D10F6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="go/Program.cs">
+    <Files>
+      <File FileName="go/Program.cs" Line="39" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.go FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
